@@ -1,6 +1,6 @@
 # Project1
 
-# # Welcome to the " AraBERT Sentiment Analysis Project on X posts "
+ Welcome to the " AraBERT Sentiment Analysis Project on X posts "
 
 This project focuses on using Deep learning Models ( AraBERT ) for arabic sentiment analysis , We use MARSA dataset  for training and testing AraBERT model, which can be accessed at:
 
